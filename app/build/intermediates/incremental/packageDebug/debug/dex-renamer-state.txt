@@ -1,0 +1,4 @@
+#Thu Oct 25 12:24:01 EET 2018
+base.0=E\:\\CompanyProjects\\HoVoSouq\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
